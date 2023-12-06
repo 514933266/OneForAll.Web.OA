@@ -1,0 +1,17 @@
+{
+  "name": "oneforall_oa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "eslint --fix --ext .js,.vue src"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.5.0",
+    "sortablejs": "^1.15.0",
+    "vue-print-nb": "^1.5.0",
+    "vuedraggable": "^2.24.3"
+  }
+}
